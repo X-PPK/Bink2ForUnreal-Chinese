@@ -6459,10 +6459,10 @@ BinkPlay.exe
 加载RAD system info错误
 
 1162950:e. The\n  entire risk using this software remains with you. This\n  limitation of liability is to the maximum extent permitted\n  by law, and in no event shall  Epic Games be liable for any\n  costs of substitute products or any special, incidental,\n  indirect or consequential damages whatsoever (including,\n  without limitation, damages for loss of business profiles,\n  business interruption or loss of business information).\n\nPrivacy Policy:\n  The Bink 2 Tools for Unreal do not gather any end-user\n  information.
-e. The\n  entire risk using this software remains with you. This\n  limitation of liability is to the maximum extent permitted\n  by law, and in no event shall  Epic Games be liable for any\n  costs of substitute products or any special, incidental,\n  indirect or consequential damages whatsoever (including,\n  without limitation, damages for loss of business profiles,\n  business interruption or loss of business information).\n\nPrivacy Policy:\n  The Bink 2 Tools for Unreal do not gather any end-user\n  information.
+e. 使用此软件的整个风险由您承担.此\n 责任限制是在法律允许的最大范围内，在任何情况下，\n Epic Games都不对任何替代产品的成本或任何特殊、附带、\n 间接或后果性的损害负责（包括，但不限于，因商业形象损失、\n 商业中断或商业信息丢失而造成的损害）.\n\n隐私政策：\n 虚幻引擎的Bink 2工具不收集任何终端用户信息.
 
 1163464:About Bink 2 Tools for Unreal...
-About Bink 2 Tools for Unreal...
+关于虚幻引擎的Bink 2工具...
 
 1163500:&Size
 大小S
@@ -6507,7 +6507,7 @@ SMKVID
 关闭
 
 1163776:Commmandline tools:\n\n  Bink2ForUnreal.exe Bink2c - run Bink 2 compressor.\n  Bink2ForUnreal.exe BinkMix - run Bink sound mixer.\n  Bink2ForUnreal.exe BinkConv - run Bink video converter.\n  Bink2ForUnreal.exe RADAna - run RAD Data Rate Analyzer.\n  Bink2ForUnreal.exe RADInfo - show info on media files.\n  Bink2ForUnreal.exe RADSI - show system information.\n\nUse /? with any command for the switches for that tool.
-Commmandline tools:\n\n  Bink2ForUnreal.exe Bink2c - run Bink 2 compressor.\n  Bink2ForUnreal.exe BinkMix - run Bink sound mixer.\n  Bink2ForUnreal.exe BinkConv - run Bink video converter.\n  Bink2ForUnreal.exe RADAna - run RAD Data Rate Analyzer.\n  Bink2ForUnreal.exe RADInfo - show info on media files.\n  Bink2ForUnreal.exe RADSI - show system information.\n\nUse /? with any command for the switches for that tool.
+命令行工具：\n\n Bink2ForUnreal.exe Bink2c - 运行Bink 2转换器.\n Bink2ForUnreal.exe BinkMix - 运行Bink声音混合器.\n Bink2ForUnreal.exe BinkConv - 运行Bink视频转换器.\n Bink2ForUnreal.exe RADAna - 运行RAD数据速率分析器.\n Bink2ForUnreal.exe RADInfo - 显示媒体文件信息.\n Bink2ForUnreal.exe RADSI - 显示系统信息.\n\n使用/?与任何命令一起，以获取该工具的开关选项.
 
 1164192:\\Bink 2
 \\Bink 2
@@ -6570,7 +6570,7 @@ BinkConv
 Path
 
 1164448:Bink 2 Tools for Unreal
-Bink 2 Tools for Unreal
+虚幻引擎的Bink 2工具
 
 1164480:Click for alpha plane options (currently not processing alpha)...
 单击以获取透明(alpha)通道选项(当前不处理alpha)...
@@ -23832,19 +23832,19 @@ LoadLibraryExW
 EncodePointer
 
 1826840:Bink 2 for Unreal
-Bink 2 for Unreal
+虚幻引擎的Bink2
 
 1826864:http://www.radgametools.com
 http://www.radgametools.com
 
 1826896:All media files (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts;*.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac)
-All media files (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts;*.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac)
+所有媒体文件 (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts;*.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac)
 
 1827132:*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts;*.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac
 *.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts;*.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac
 
 1827350:All graphics files (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts)
-All graphics files (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts)
+所有图形文件 (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts)
 
 1827552:*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts
 *.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif;*.tga;*.tif*;*.png;*.jpg;*.jpeg;*.mp4;*.dv*;*.mpg;*.mpeg;*.wmv;*.asf;*.mjpg;*.mjpeg;*.rla;*.exr;*.mkv;*.m4v;*.ts;*.m2ts
@@ -23856,7 +23856,7 @@ All graphics files (*.bk2;*.bik;*.lst;*.rlst;*.raw;*.avi;*.mov;*.qt*;*.bmp;*.gif
 *.wav;*.mp3;*.wma;*.aac;*.m4a;*.flac
 
 1827825:All RAD files (*.bk2;*.bik;*.lst;*.rlst;*.raw)
-All RAD files (*.bk2;*.bik;*.lst;*.rlst;*.raw)
+所有RAD文件 (*.bk2;*.bik;*.lst;*.rlst;*.raw)
 
 1827872:*.bk2;*.bik;*.lst;*.rlst;*.raw
 *.bk2;*.bik;*.lst;*.rlst;*.raw
