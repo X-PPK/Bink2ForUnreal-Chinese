@@ -1,8 +1,8 @@
-# Bink 2 Encoder 汉化版
+# Bink2ForUnreal 汉化版
 - [原项目githup链接](https://github.com/marcussacana/Bink2)
 
 #### 介绍
-汉化了Bink 2 Encoder，一个用于视频转Bink2(.bk2)的工具,注意它转的BK2是2.8版本
+汉化了Bink2ForUnreal，一个用于视频转Bink2(.bk2)的工具,注意它转的BK2是2.8版本
 
 ### 声明
 #### 首先需要声明原软件来源于gihup的项目： https://github.com/marcussacana/Bink2
